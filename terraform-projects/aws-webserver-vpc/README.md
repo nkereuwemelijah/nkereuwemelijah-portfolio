@@ -35,21 +35,24 @@ nkereuwemelijah-portfolio/
 ## ⚙️ Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/nkereuwemelijah/terraform-vpc-ec2-project-nkereuwemelijah.git
+git clone https://github.com/nkereuwemelijah/nkereuwemelijah-portfolio.git
 cd terraform-projects/aws-webserver-vpc
 ```
 2. Configure your AWS credentials (via `aws configure` or environment variables).
 3. Initialize Terraform:
 ```bash
 terraform init
+
 ```
 4. Apply the Terraform plan:
 ```bash
 terraform apply
+
 ```
 5. (Optional) Destroy the infrastructure when done:
 ```bash
 terraform destroy
+
 ```
 
 ## 📝 Project Status
