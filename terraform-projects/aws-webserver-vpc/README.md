@@ -35,7 +35,10 @@ nkereuwemelijah-portfolio/
 ## ⚙️ Usage & Workflow
 
 1. Clone the repository:
+# Clone the portfolio repository
 git clone https://github.com/nkereuwemelijah/nkereuwemelijah-portfolio.git
+
+# Move into the specific Terraform project folder
 cd terraform-projects/aws-webserver-vpc
 
 2. Git workflow
