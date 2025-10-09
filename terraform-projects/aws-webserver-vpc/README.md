@@ -32,28 +32,26 @@ nkereuwemelijah-portfolio/
 > **Diagram Description:**  
 > The VPC contains a public subnet with an Internet Gateway. A Security Group allows SSH and HTTP access. The EC2 instance hosts a basic web server accessible over the internet.
 
-## ⚙️ Usage
+## ⚙️ Usage & Workflow
+
 1. Clone the repository:
-```bash
+
 git clone https://github.com/nkereuwemelijah/nkereuwemelijah-portfolio.git
 cd terraform-projects/aws-webserver-vpc
-```
-2. Configure your AWS credentials (via `aws configure` or environment variables).
-3. Initialize Terraform:
-```bash
-terraform init
 
-```
-4. Apply the Terraform plan:
-```bash
-terraform apply
+2. Git workflow
 
-```
-5. (Optional) Destroy the infrastructure when done:
-```bash
-terraform destroy
+git init                # Initialize a new Git repo 
+git fmt                 # Format Terraform code 
+git add .               # Stage changes
+git commit -m "Update project files"
 
-```
+3. Terraform workflow
+
+terraform validate      # Check configuration syntax
+terraform plan          # Preview changes Terraform will make
+terraform apply         # Apply the configuration to AWS
+terraform destroy       # Destroy the infrastructure when done
 
 ## 📝 Project Status
 > **Note:** The EC2 instance used in this project may no longer be active.  
