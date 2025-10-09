@@ -1,6 +1,5 @@
 # 🧠 AI & Machine Learning Projects
 
-# 🧠 AI & Machine Learning Projects
 
 This section showcases my **AI/ML-focused projects**, where I apply data science, automation, and predictive modeling to solve real-world problems. These projects highlight my **practical application of AI and ML techniques**, building on my existing experience in **Cloud & DevOps**.
 .
