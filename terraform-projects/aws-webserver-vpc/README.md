@@ -35,23 +35,34 @@ nkereuwemelijah-portfolio/
 ## ⚙️ Usage & Workflow
 
 1. Clone the repository:
-
 git clone https://github.com/nkereuwemelijah/nkereuwemelijah-portfolio.git
 cd terraform-projects/aws-webserver-vpc
 
 2. Git workflow
+# Initialize a new Git repository (if not already initialized)
+git init                
 
-git init                # Initialize a new Git repo 
-git fmt                 # Format Terraform code 
-git add .               # Stage changes
+# Format Terraform code (optional, if you have a formatter installed)
+git fmt                 
+
+# Stage all changes for commit
+git add .               
+
+# Commit changes with a descriptive message
 git commit -m "Update project files"
 
 3. Terraform workflow
+# Validate the Terraform configuration for syntax errors
+terraform validate      
 
-terraform validate      # Check configuration syntax
-terraform plan          # Preview changes Terraform will make
-terraform apply         # Apply the configuration to AWS
-terraform destroy       # Destroy the infrastructure when done
+# Preview the changes Terraform will make in AWS
+terraform plan          
+
+# Apply the Terraform plan and create resources in AWS
+terraform apply         
+
+# Destroy the AWS infrastructure when done
+terraform destroy       
 
 ## 📝 Project Status
 > **Note:** The EC2 instance used in this project may no longer be active.  
