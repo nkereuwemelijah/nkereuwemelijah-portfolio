@@ -1,0 +1,24 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# OS/Editor
+*.DS_Store
+*.log
+*.tmp
+*.swp
+
+# Archives & binaries
+*.zip
+*.tar
+*.gz
+*.iso
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node (if any)
+node_modules/
