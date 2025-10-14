@@ -20,28 +20,6 @@ This portfolio showcases **practical projects** including **hands-on cloud deplo
 
 ---
 
-## 📁 Project Folder Overview
-
-This repository is organized into folders representing key areas of **Cloud Computing, DevOps, and AI/ML integration**.
-
-nkereuwemelijah-portfolio/
-│
-├─ terraform-projects/ # Infrastructure as Code (VPC, EC2, Networking, etc.)
-├─ devops-projects/ # Jenkins, Docker, CI/CD pipelines
-├─ aws-cloud-projects/ # AWS native projects (without Terraform)
-├─ linux-projects/ # Shell, user mgmt, automation scripts
-├─ git-projects/ # Version control exercises
-├─ python-projects/ # Automation, scripting, data handling
-├─ ai-ml-projects/ # AI/ML integration with Cloud & DevOps
-├─ monitoring-observability/ # CloudWatch, Prometheus, Grafana, ELK Stack
-├─ security-devsecops/ # IAM, policies, vulnerability scanning, compliance automation
-├─ kubernetes-projects/ # Container orchestration (EKS, Minikube, Helm)
-├─ ci-cd-advanced/ # Multi-environment pipelines, GitHub Actions, ArgoCD
-└─ docs/ # Architecture diagrams, visuals, documentation
-
-
----
-
 ## 📫 Contact & Connect
 
 - 📧 Email: [nkereuwemelijah@gmail.com](mailto:nkereuwemelijah@gmail.com)  
