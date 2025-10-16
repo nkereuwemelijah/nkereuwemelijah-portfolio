@@ -1,40 +1,39 @@
-## 🧩 Nkereuwem Elijah – DevOps & Cloud Portfolio
+# 🧩 Nkereuwem Elijah – DevOps & Cloud Portfolio
 
-### 🌟 Featured Project: HNG13 Stage 0 – DevOps Deployment  
-This project demonstrates deploying an **NGINX web server** on an **Ubuntu (AWS EC2)** instance as part of the **HNG13 DevOps Challenge**.  
-It showcases foundational DevOps tasks including cloud setup, web server configuration, and version control.
+Welcome to my DevOps & Cloud portfolio!  
+Here you’ll find selected projects that demonstrate my skills in cloud computing, DevOps, automation, and infrastructure management.
 
-![Web Server Screenshot](./hng13-devops-stage0/Webserver_screenshot.png)
+---
 
-#### 🔗 Live Server (during project period)
-[http://54.242.188.189/](http://54.242.188.189/)
+## 🌟 Featured Project: HNG13 Stage 0 – DevOps Deployment
 
-#### 🧰 Technologies Used
+**Project Overview:**  
+Deployed an **NGINX web server** on an Ubuntu AWS EC2 instance as part of the HNG13 DevOps Challenge.  
+Showcases foundational DevOps skills including cloud setup, server configuration, web deployment, and version control.
+
+**Technologies Used:**  
 - Ubuntu Server (AWS EC2)  
 - NGINX  
 - Git & GitHub  
 - Git Bash / Linux CLI  
 
-#### 🧭 Project Steps
-1. Provisioned an AWS EC2 Ubuntu instance  
-2. Installed and configured **NGINX**  
-3. Created and deployed a custom **HTML webpage**  
-4. Verified successful deployment via browser and CLI  
-5. Documented setup and deployment steps  
+**Project Folder:** [HNG13 Stage 0](./hng13-devops-stage0)
 
-#### 👤 Author
-**Name:** Nkereuwem Peter Elijah  
-**Slack Handle:** [@NkereuwemE](https://hng.tech/slack)
-
-#### 🗓️ Project Date
-**October 2025**
-
-#### 📝 Note
-The EC2 instance used in this project may no longer be active.  
-This repository is maintained as part of my **DevOps and Cloud portfolio**.
+> **Note:** The EC2 instance used in this project may no longer be active.  
+> This repository is maintained for portfolio and demonstration purposes.
 
 ---
 
-### ⚙️ Other Projects
+## ⚙️ Other Projects
 More DevOps, Cloud, and Automation projects will be added to this portfolio over time.
+
+---
+
+## 👤 About Me
+- Name: Nkereuwem Peter Elijah  
+- Slack: [@NkereuwemE](https://hng.slack.com/team/NkereuwemE)  
+
+---
+
+🗓️ **Portfolio Last Updated:** October 2025
 
